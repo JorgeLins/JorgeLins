@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=GabrielBritoP&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgelins&show_icons=true&locale=en&layout=compact" alt="jorgelins" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Jorge Lins</h1>
@@ -12,4 +12,4 @@
 <hr>
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritoP&layout=compact&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jorgelins&show_icons=true&locale=en" alt="jorgelins" /></p>
