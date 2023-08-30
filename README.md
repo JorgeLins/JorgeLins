@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Lins</h1>
 <h3 align="center">I'm a front-end developer from Brazil, i have started studying web development since 2019</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgelins" alt="jorgelins" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
